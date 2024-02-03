@@ -2,7 +2,7 @@
 
 Colección de dispositivos y artilugios mecánicos para vincular con electrónica. 
 
-La mayoría de los diseños fueron descargados desde el sitio web [Thingiverse](https://www.thingiverse.com/)
+La mayoría de los diseños fueron descargados desde el sitio web [Thingiverse](https://www.thingiverse.com/).
 
 ## Contenido
 
