@@ -4,7 +4,7 @@ Colección de dispositivos y artilugios mecánicos para vincular con electrónic
 
 La mayoría de los diseños fueron descargados desde el sitio web [Thingiverse](https://www.thingiverse.com/). Lea los archivos `README.txt` respectivos para más detalles.
 
-## Contenido
+## Modelos 3D
 
 - `Archimedes screw` [tornillo de Arquímedes](https://es.wikipedia.org/wiki/Tornillo_de_Arqu%C3%ADmedes) para mover sólidos.
 - `DIN rail/Arduino DIN rail clip & bumper` montaje en riel DIN para placa Arduino UNO.
@@ -16,3 +16,7 @@ La mayoría de los diseños fueron descargados desde el sitio web [Thingiverse](
 - `Roller Blind` mecanismos para cortina de enrollar motorizada.
 - `Suspension Servo` mecanismo de suspensión y dirección delantera para robótica.
 - `Tolva Servo SG90` tolva dosificadora de sólidos con servo modelo SG90.
+
+## Ánexos Técnicos
+
+- `Tornillería.pdf` información sobre roscas, tornillos y tuercas.
