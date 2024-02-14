@@ -19,4 +19,6 @@ La mayoría de los diseños fueron descargados desde el sitio web [Thingiverse](
 
 ## Ánexos Técnicos
 
-- `Tornillería.pdf` información sobre roscas, tornillos y tuercas.
+- `Agujeros.pdf` Tabla diámetro de agujero a roscar, tipos de machos.
+- `Catálogo_Bulones.pdf` Catálogo bulones, arandelas, tuercas, tornillos, espárragos y varillas.
+- `Tipos de roscas.pdf` Tabla tipos de roscas.
