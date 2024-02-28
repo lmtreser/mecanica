@@ -21,4 +21,5 @@ La mayoría de los diseños fueron descargados desde el sitio web [Thingiverse](
 
 - `Agujeros.pdf` Tabla diámetro de agujero a roscar, tipos de machos.
 - `Catálogo_Bulones.pdf` Catálogo bulones, arandelas, tuercas, tornillos, espárragos y varillas.
+- `Riel DIN.pdf` Breve apunte sobre el riel DIN.
 - `Tipos de roscas.pdf` Tabla tipos de roscas.
