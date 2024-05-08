@@ -23,3 +23,7 @@ La mayoría de los diseños fueron descargados desde el sitio web [Thingiverse](
 - `Catálogo_Bulones.pdf` Catálogo bulones, arandelas, tuercas, tornillos, espárragos y varillas.
 - `Riel DIN.pdf` Breve apunte sobre el riel DIN.
 - `Tipos de roscas.pdf` Tabla tipos de roscas.
+
+## Objetos
+
+Colección de objetos, componentes y dispositivos útiles para la confección de sistemas.
