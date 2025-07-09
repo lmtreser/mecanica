@@ -1,0 +1,61 @@
+{
+    "constraints": {},
+    "entities": {
+        "97b40ffd-c95d-4e4b-b3c1-9781b57ca930": {
+            "anchors": {},
+            "construction": false,
+            "group": "abe3d286-f944-437d-aa7a-963fc78eeda8",
+            "include_in_solid_model": false,
+            "name": "",
+            "normal": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "origin": [
+                -146.10933685302734,
+                38.09076499938965,
+                0.0
+            ],
+            "path": "Primer_Proyecto.step",
+            "type": "step"
+        }
+    },
+    "groups": {
+        "3aec09a4-8dfc-4614-940b-0e0b202b8514": {
+            "active_wrkpl": "00000000-0000-0000-0000-000000000000",
+            "body": {
+                "color": null,
+                "name": "Body"
+            },
+            "index": 0,
+            "name": "Reference",
+            "show_xy": true,
+            "show_yz": true,
+            "show_zx": true,
+            "type": "reference",
+            "xy_size": [
+                10.0,
+                10.0
+            ],
+            "yz_size": [
+                10.0,
+                10.0
+            ],
+            "zx_size": [
+                10.0,
+                10.0
+            ]
+        },
+        "abe3d286-f944-437d-aa7a-963fc78eeda8": {
+            "active_wrkpl": "344a1205-4f08-5b27-82d7-a64c7af9e4b0",
+            "body": null,
+            "index": 1,
+            "name": "Sketch 1",
+            "type": "sketch"
+        }
+    },
+    "type": "document",
+    "version": 30
+}
