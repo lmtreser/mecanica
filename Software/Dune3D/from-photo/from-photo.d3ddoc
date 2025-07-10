@@ -1,13 +1,30 @@
 {
     "constraints": {
+        "01ea3666-fc83-4674-aaa8-9a1b35e1838f": {
+            "distance": 15.24,
+            "group": "152dd4da-2d5c-481e-805a-5e8c06e95a97",
+            "line": "484dd005-241b-41ed-9762-db19cd47b00a",
+            "measurement": false,
+            "offset": [
+                0.17432403564453125,
+                3.0506725311279297,
+                0.0
+            ],
+            "point": {
+                "entity": "3064e65e-e218-4eea-af6e-0b502709f2ec",
+                "point": 1
+            },
+            "type": "point_line_distance",
+            "wrkpl": "4767577b-9411-5548-82d6-07552c7d7594"
+        },
         "03d44905-e523-437a-a607-cab94af444b3": {
             "distance": 3.2,
             "entity": "3064e65e-e218-4eea-af6e-0b502709f2ec",
             "group": "152dd4da-2d5c-481e-805a-5e8c06e95a97",
             "measurement": false,
             "offset": [
-                6.872303009033203,
-                -0.2796287536621094
+                1.8169002532958984,
+                1.5507755279541016
             ],
             "type": "diameter"
         },
@@ -206,6 +223,40 @@
             "type": "point_distance",
             "wrkpl": "4767577b-9411-5548-82d6-07552c7d7594"
         },
+        "9392ec51-94bb-4683-a753-2b75953082cd": {
+            "distance": 17.78,
+            "group": "152dd4da-2d5c-481e-805a-5e8c06e95a97",
+            "line": "a68020be-cb42-4930-9d53-f5529c0f286e",
+            "measurement": false,
+            "offset": [
+                20.002614582432102,
+                -1.7779454973074493,
+                0.0
+            ],
+            "point": {
+                "entity": "9b8afc92-d04a-4724-8733-60e3732a9f79",
+                "point": 1
+            },
+            "type": "point_line_distance",
+            "wrkpl": "4767577b-9411-5548-82d6-07552c7d7594"
+        },
+        "9744ccf2-f02c-42bb-a8ca-54ccd4d666f8": {
+            "distance": 2.54,
+            "group": "152dd4da-2d5c-481e-805a-5e8c06e95a97",
+            "line": "85400b17-d230-47e8-abcb-0310a8370527",
+            "measurement": false,
+            "offset": [
+                2.0414161682128906,
+                -0.4492053985595703,
+                0.0
+            ],
+            "point": {
+                "entity": "3064e65e-e218-4eea-af6e-0b502709f2ec",
+                "point": 1
+            },
+            "type": "point_line_distance",
+            "wrkpl": "4767577b-9411-5548-82d6-07552c7d7594"
+        },
         "9ab6abec-dc45-4b67-8bb2-5b301ec719ef": {
             "distance": 3.2,
             "entity": "d01f4fad-6e58-4220-959d-c6b8ca6609d2",
@@ -216,6 +267,57 @@
                 -2.8662242061289582
             ],
             "type": "diameter"
+        },
+        "9d76db3a-3307-457d-ab7d-a2eb11c9ef24": {
+            "distance": 66.04,
+            "group": "152dd4da-2d5c-481e-805a-5e8c06e95a97",
+            "line": "484dd005-241b-41ed-9762-db19cd47b00a",
+            "measurement": false,
+            "offset": [
+                1.5875047870842138,
+                -28.465982835717774,
+                0.0
+            ],
+            "point": {
+                "entity": "9b8afc92-d04a-4724-8733-60e3732a9f79",
+                "point": 1
+            },
+            "type": "point_line_distance",
+            "wrkpl": "4767577b-9411-5548-82d6-07552c7d7594"
+        },
+        "a578cf1d-458f-4fa2-af5a-920429bd3fe1": {
+            "distance": 66.04,
+            "group": "152dd4da-2d5c-481e-805a-5e8c06e95a97",
+            "line": "484dd005-241b-41ed-9762-db19cd47b00a",
+            "measurement": false,
+            "offset": [
+                1.48055614264657,
+                -11.980158788883639,
+                0.0
+            ],
+            "point": {
+                "entity": "fa681a4a-7188-4733-a5cf-db186b3dc674",
+                "point": 1
+            },
+            "type": "point_line_distance",
+            "wrkpl": "4767577b-9411-5548-82d6-07552c7d7594"
+        },
+        "a9ccbbfd-574a-467a-9e0e-1f172cf454bb": {
+            "distance": 45.72,
+            "group": "152dd4da-2d5c-481e-805a-5e8c06e95a97",
+            "line": "a68020be-cb42-4930-9d53-f5529c0f286e",
+            "measurement": false,
+            "offset": [
+                30.97129131109454,
+                -0.013481985818897257,
+                0.0
+            ],
+            "point": {
+                "entity": "fa681a4a-7188-4733-a5cf-db186b3dc674",
+                "point": 1
+            },
+            "type": "point_line_distance",
+            "wrkpl": "4767577b-9411-5548-82d6-07552c7d7594"
         },
         "b53dd140-e9f3-4473-a12f-b6db212959de": {
             "distance": 33.02,
@@ -267,7 +369,7 @@
             "wrkpl": "4767577b-9411-5548-82d6-07552c7d7594"
         },
         "e6c3d07f-375c-44e5-bb63-2107a36ffa7d": {
-            "distance": 66.04,
+            "distance": 68.58,
             "entity1": {
                 "entity": "a68020be-cb42-4930-9d53-f5529c0f286e",
                 "point": 1
@@ -321,8 +423,8 @@
     "entities": {
         "3064e65e-e218-4eea-af6e-0b502709f2ec": {
             "center": [
-                -21.29740177154541,
-                -15.95825117111206
+                -17.78,
+                -22.86
             ],
             "construction": false,
             "group": "152dd4da-2d5c-481e-805a-5e8c06e95a97",
@@ -476,11 +578,11 @@
             "group": "152dd4da-2d5c-481e-805a-5e8c06e95a97",
             "name": "",
             "p1": [
-                33.02000000000001,
+                35.56,
                 25.4
             ],
             "p2": [
-                33.02000000000001,
+                35.56,
                 -25.4
             ],
             "type": "line_2d",
@@ -491,7 +593,7 @@
             "group": "152dd4da-2d5c-481e-805a-5e8c06e95a97",
             "name": "",
             "p1": [
-                33.02000000000001,
+                35.56,
                 -25.4
             ],
             "p2": [
@@ -503,8 +605,8 @@
         },
         "9b8afc92-d04a-4724-8733-60e3732a9f79": {
             "center": [
-                19.47357310295105,
-                17.281585521698
+                33.02,
+                7.619999999999997
             ],
             "construction": false,
             "group": "152dd4da-2d5c-481e-805a-5e8c06e95a97",
@@ -522,7 +624,7 @@
                 25.4
             ],
             "p2": [
-                33.02000000000001,
+                35.56,
                 25.4
             ],
             "type": "line_2d",
@@ -542,8 +644,8 @@
         },
         "fa681a4a-7188-4733-a5cf-db186b3dc674": {
             "center": [
-                25.331661834716797,
-                -18.821003131866455
+                33.02,
+                -20.32
             ],
             "construction": false,
             "group": "152dd4da-2d5c-481e-805a-5e8c06e95a97",
@@ -559,8 +661,8 @@
             "body": null,
             "direction": "normal",
             "dvec": [
-                -2.1197879309511924e-168,
-                4.239575861902385e-168,
+                1.3612845920321247e-61,
+                -4.667261458395856e-61,
                 2.0
             ],
             "index": 3,
@@ -575,9 +677,9 @@
             "active_wrkpl": "4767577b-9411-5548-82d6-07552c7d7594",
             "body": {
                 "color": {
-                    "b": 0.9176470637321472,
-                    "g": 0.6274510025978088,
-                    "r": 0.3843137323856354
+                    "b": 0.7058823704719543,
+                    "g": 0.37254902720451355,
+                    "r": 0.10196078568696976
                 },
                 "name": "Body"
             },
