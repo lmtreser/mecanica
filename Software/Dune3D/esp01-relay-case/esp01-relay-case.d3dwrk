@@ -1,0 +1,62 @@
+{
+    "workspace_views": {
+        "759bcfb2-eb90-4f36-bf88-bbd99e02317f": {
+            "cam_distance": 126.05976104736328,
+            "cam_quat": [
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ],
+            "center": [
+                -4.64264303445816e-06,
+                23.193960189819336,
+                -10.085089683532715
+            ],
+            "curvature_comb_scale": 0.0,
+            "document": {
+                "body_views": {
+                    "4af9c26d-d492-4b9f-8c59-8039acc95366": {
+                        "expanded": true,
+                        "solid_model_visible": true,
+                        "visible": true
+                    }
+                },
+                "current_group": "e0d512c5-b03f-4319-9a9c-dae3c21bf0e3",
+                "entity_views": {},
+                "group_views": {
+                    "09f1eac3-b5cc-4f52-84cf-01db16077e95": {
+                        "visible": false
+                    },
+                    "1388721b-66c1-4996-b3a1-8d7c9dbc57c7": {
+                        "visible": true
+                    },
+                    "1ef22db3-4473-466f-b2e9-990c9fd5b087": {
+                        "visible": false
+                    },
+                    "51b4dbb9-53f4-4847-8b80-ab6009ab3059": {
+                        "visible": false
+                    },
+                    "c18952d9-f178-4987-82fd-b644b9fdfe6d": {
+                        "visible": false
+                    },
+                    "c81da7cb-b9b9-466a-b386-81944b49e6e8": {
+                        "visible": false
+                    },
+                    "e6ffac55-3151-40a7-92ef-1f1b2fb95bee": {
+                        "visible": false
+                    },
+                    "ec5c4a4e-48b3-40a0-92d1-c34265e0403f": {
+                        "visible": false
+                    },
+                    "f75db8b9-c5fc-4833-8e30-478967792b73": {
+                        "visible": false
+                    }
+                },
+                "show_construction_entities_from_previous_groups": false
+            },
+            "name": "",
+            "projection": "ortho"
+        }
+    }
+}
