@@ -1,26 +1,53 @@
 {
     "workspace_views": {
         "616c0676-7422-41a9-a07c-c0c90b761afa": {
-            "cam_distance": 179.742919921875,
+            "cam_distance": 139.51361083984375,
             "cam_quat": [
-                0.5309848189353943,
-                0.3857385814189911,
-                0.6031677722930908,
-                0.453265517950058
+                -0.6289613842964172,
+                -0.16844730079174042,
+                0.7501271367073059,
+                0.11550939828157425
             ],
             "center": [
-                -2.527378910599509e-07,
-                24.974918365478516,
-                3.070054054260254
+                33.59853744506836,
+                30.411962509155273,
+                15.23961067199707
             ],
             "curvature_comb_scale": 0.0,
             "document": {
-                "body_views": {},
-                "current_group": "c18952d9-f178-4987-82fd-b644b9fdfe6d",
+                "body_views": {
+                    "4af9c26d-d492-4b9f-8c59-8039acc95366": {
+                        "expanded": true,
+                        "solid_model_visible": true,
+                        "visible": true
+                    }
+                },
+                "current_group": "c81da7cb-b9b9-466a-b386-81944b49e6e8",
                 "entity_views": {},
                 "group_views": {
-                    "f75db8b9-c5fc-4833-8e30-478967792b73": {
+                    "09f1eac3-b5cc-4f52-84cf-01db16077e95": {
+                        "visible": false
+                    },
+                    "1ef22db3-4473-466f-b2e9-990c9fd5b087": {
+                        "visible": false
+                    },
+                    "4af9c26d-d492-4b9f-8c59-8039acc95366": {
                         "visible": true
+                    },
+                    "51b4dbb9-53f4-4847-8b80-ab6009ab3059": {
+                        "visible": false
+                    },
+                    "c18952d9-f178-4987-82fd-b644b9fdfe6d": {
+                        "visible": false
+                    },
+                    "e6ffac55-3151-40a7-92ef-1f1b2fb95bee": {
+                        "visible": false
+                    },
+                    "ec5c4a4e-48b3-40a0-92d1-c34265e0403f": {
+                        "visible": false
+                    },
+                    "f75db8b9-c5fc-4833-8e30-478967792b73": {
+                        "visible": false
                     }
                 },
                 "show_construction_entities_from_previous_groups": false
